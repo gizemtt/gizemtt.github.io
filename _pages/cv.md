@@ -1,6 +1,6 @@
 ---
 layout: redirect # cv
-permalink: /cv/
+permalink: example_pdf.pdf #/cv/
 title: cv
 nav: true
 nav_order: 5
