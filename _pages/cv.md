@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 5
 cv_pdf: Toplu-Tutay_CV.pdf
-# description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-# toc:
-#   sidebar: left
+description: Click the PDF icon to download the CV!
+# toc: #table of contents
+#    sidebar: left
 ---
