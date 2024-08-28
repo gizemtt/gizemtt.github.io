@@ -26,4 +26,4 @@ I earned my bachelor's degree in Civil Engineering with highest honors (*summa c
 
 Outside of work, I enjoy walking, rowing, and experimenting in the kitchen to put my own twist on dishes—though not every experiment is a success! I also love to unwind with a picnic in nature, surrounded by family and friends.
 
-**Research interests:** Multistage Stochastic Optimization, Integer Programming, Combinatorial/Discrete Optimization, Robust Optimization, Network Modeling, Resilience, Humanitarian Logistics, Disaster Preparedness and Mitigation, Equitable Resource Allocation, Power Grid Resilience, Healthcare Infrastructure Resilience
+**Research interests:** Multistage Stochastic Optimization, Integer Programming, Combinatorial/Discrete Optimization, Network Optimization, Resilience, Humanitarian Logistics, Disaster Preparedness and Mitigation, Equitable Resource Allocation, Power Grid Resilience, Healthcare Infrastructure Resilience
