@@ -8,17 +8,22 @@ nav_order: 3
 ---
 
 <!-- _pages/publications.md -->
-<!-- Bibsearch Feature -->
+
 If you are unable to access any of these papers, please contact me at **gizem@utexas.edu**
 
-## Journal Papers
+## Journal Papers Published
 
 <div class="publications">
 {% bibliography --query @article %}
 </div>
 
+<!-- ## Papers Submitted -->
 
-## Working Papers
+<div class="publications">
+{% bibliography --query @PapersSubmitted %}
+</div>
+
+<!-- ## Working Papers -->
 
 <div class="publications">
 {% bibliography --query @WorkingPapers %}
