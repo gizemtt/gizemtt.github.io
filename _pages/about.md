@@ -24,10 +24,10 @@ My research is dedicated to enhancing the resilience of power grids and healthca
 
 I've received funding from the [National Science Foundation (NSF)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1940308), the [IC<sup>2</sup> Institute](https://ic2.utexas.edu/), the [Bureau of Economic Geology](https://ceo.beg.utexas.edu/), and the prestigious [University Graduate Continuing Fellowship](https://gradschool.utexas.edu/funding/fellowships/grad-school/continuing). These opportunities have allowed me to: (1) gain valuable experience in applying for and securing awards and grants, (2) work on research topics both assigned to me and self-initiated, and (3) collaborate effectively with team members from diverse fields, including economics, geosciences, electrical engineering, computer science, business, public policy, and, of course, operations research. As a result, I have developed an interdisciplinary approach to research.
 
-I earned my bachelor's degree in Civil Engineering with highest honors (summa cum laude) from [Bogazici University](https://bogazici.edu.tr/en-US/Index). Before beginning my Ph.D., I gained six years of industry experience—three years in the power sector and three years in manufacturing and logistics.
+I earned my bachelor's degree in Civil Engineering with highest honors (*summa cum laude*) from [Bogazici University](https://bogazici.edu.tr/en-US/Index). Before beginning my Ph.D., I gained six years of industry experience—three years in the power sector and three years in manufacturing and logistics.
 
 Outside of work, I enjoy walking, rowing, and experimenting in the kitchen to put my own twist on dishes—though not every experiment is a success! I also love to unwind with a picnic in nature, surrounded by family and friends.
 
-**Motto:** Dripping water hollows out stone, not through force but through persistence.
+**Motto:** *Dripping water hollows out stone, not through force but through persistence.*
 
 **Research interests:** Multistage Stochastic Optimization, Integer Programming, Combinatorial/Discrete Optimization, Robust Optimization, Network Modeling, Resilience, Humanitarian Logistics, Disaster Preparedness and Mitigation, Equitable Resource Allocation, Power Grid Resilience, Healthcare Infrastructure Resilience
