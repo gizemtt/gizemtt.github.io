@@ -11,8 +11,6 @@ nav_order: 3
 <!-- Bibsearch Feature -->
 If you are unable to access any of these papers, please contact me at **gizem@utexas.edu**
 
-{% include bib_search.liquid %}
-
 <div class="publications">
 
 {% bibliography %}
