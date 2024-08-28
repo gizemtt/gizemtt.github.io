@@ -4,14 +4,14 @@ title: about
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 #subtitle: Ph.D. Candidate in the <a href="https://www.me.utexas.edu/about/facts-rankings">Operations Research and Industrial Engineering at the University of Texas at Austin</a>
-subtitle: (<a href="https://gizemtt.github.io/cv/">Curriculum Vitae</a>)
+subtitle: (<a href="https://gizemtt.github.io/cv/">Curriculum Vitae</a>)    |    Contact:gizem@utexas.edu
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Email: gizem@utexas.edu</p>
+  # more_info: >
+  #   <p>Email: gizem@utexas.edu</p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
