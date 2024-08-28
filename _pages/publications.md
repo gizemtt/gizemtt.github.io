@@ -8,8 +8,8 @@ nav_order: 3
 ---
 
 <!-- _pages/publications.md -->
-
-**If you are unable to access any of these papers, please contact me at gizem@utexas.edu**
+<!-- Bibsearch Feature -->
+If you are unable to access any of these papers, please contact me at **gizem@utexas.edu**
 
 {% include bib_search.liquid %}
 
