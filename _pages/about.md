@@ -13,7 +13,7 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 I'm a Ph.D. candidate in [Operations Research and Industrial Engineering Program](https://www.me.utexas.edu/about/facts-rankings) within the Department of Mechanical Engineering at the University of Texas at Austin, where I focus on Stochastic and Mixed-Integer Programming.
