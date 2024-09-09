@@ -11,9 +11,8 @@ nav_order: 3
 
 If you are unable to access any of these papers, please contact me at **gizem@utexas.edu**
 
-
-
-
+<br><br>
+<br><br>
 
 ## Journal Papers Published
 
@@ -33,6 +32,8 @@ If you are unable to access any of these papers, please contact me at **gizem@ut
 {% bibliography --query @WorkingPapers %}
 </div>
 
+<br><br>
+<br><br>
 
 ## Conference Papers
 
