@@ -11,6 +11,10 @@ nav_order: 3
 
 If you are unable to access any of these papers, please contact me at **gizem@utexas.edu**
 
+
+
+
+
 ## Journal Papers Published
 
 <div class="publications">

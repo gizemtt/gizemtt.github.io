@@ -13,7 +13,7 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 I'm a Ph.D. candidate in [Operations Research and Industrial Engineering Program](https://www.me.utexas.edu/about/facts-rankings) within the Department of Mechanical Engineering at the University of Texas at Austin, where I focus on Stochastic and Mixed-Integer Programming.
@@ -26,4 +26,4 @@ I earned my bachelor's degree in Civil Engineering with highest honors (*summa c
 
 Outside of work, I enjoy walking, rowing, and experimenting in the kitchen to put my own twist on dishes—though not every experiment is a success! I also love to unwind with a picnic in nature, surrounded by family and friends.
 
-**Research interests:** Multistage Stochastic Optimization, Integer Programming, Combinatorial/Discrete Optimization, Network Optimization, Resilience, Humanitarian Logistics, Disaster Preparedness and Mitigation, Equitable Resource Allocation, Power Grid Resilience, Healthcare Infrastructure Resilience
+**Research Interests:** Stochastic Optimization, Integer Programming, Network Optimization, Robust Optimization, Resilience, Humanitarian Logistics, Disaster Preparedness and Mitigation, Equitable Resource Allocation, Power Grid Resilience, Healthcare Network Resilience, Combinatorial/Discrete Optimization, Decision Making Under Uncertainty
