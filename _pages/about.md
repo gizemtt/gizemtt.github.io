@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a Ph.D. candidate in [Operations Research and Industrial Engineering Program](https://www.me.utexas.edu/about/facts-rankings) within the Department of Mechanical Engineering at the University of Texas at Austin, where I focus on Stochastic and Mixed-Integer Programming.
+I'm a Ph.D. candidate in [Operations Research and Industrial Engineering Program](https://www.me.utexas.edu/about/facts-rankings) within the Department of Mechanical Engineering at the University of Texas at Austin, where I focus on stochastic integer programming and machine learning-enhanced decision-making.
 
 My research is dedicated to enhancing the resilience of power grids and healthcare networks, with a particular emphasis on social equity in the face of natural disasters. I’m fortunate to be advised by [Prof. John J. Hasenbein](https://sites.utexas.edu/hasenbein/) and [Prof. Erhan Kutanoglu](https://sites.utexas.edu/erhan/). You can find my publications [here](https://gizemtt.github.io/publications/).
 
@@ -26,4 +26,4 @@ I earned my bachelor's degree in Civil Engineering with highest honors (*summa c
 
 Outside of work, I enjoy walking, rowing, and experimenting in the kitchen to put my own twist on dishes—though not every experiment is a success! I also love to unwind with a picnic in nature, surrounded by family and friends.
 
-**Research Interests:** Stochastic Optimization, Integer Programming, Network Optimization, Robust Optimization, Resilience, Humanitarian Logistics, Disaster Preparedness and Mitigation, Equitable Resource Allocation, Power Grid Resilience, Healthcare Network Resilience, Combinatorial/Discrete Optimization, Decision Making Under Uncertainty
+**Research Interests:** Multi-stage Stochastic Optimization, Integer Programming, Network Optimization, Robust Optimization, Resilience, Energy Systems, Sociatal Systems, Humanitarian Logistics, Disaster Preparedness and Mitigation, Equitable Resource Allocation, Power Grid Resilience, Healthcare Network Resilience, Combinatorial/Discrete Optimization, Decision Making Under Uncertainty
