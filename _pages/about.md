@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a Ph.D. candidate in [Operations Research and Industrial Engineering Program](https://www.me.utexas.edu/about/facts-rankings) within the Department of Mechanical Engineering at the University of Texas at Austin, where I focus on Stochastic and Mixed-Integer Programming.
+I'm a Ph.D. candidate in [Operations Research and Industrial Engineering Program](https://www.me.utexas.edu/about/facts-rankings) within the Department of Mechanical Engineering at the University of Texas at Austin, where I focus on stochastic integer programming and data-driven decision-making. 
 
 My research is dedicated to enhancing the resilience of power grids and healthcare networks, with a particular emphasis on social equity in the face of natural disasters. I’m fortunate to be advised by [Prof. John J. Hasenbein](https://sites.utexas.edu/hasenbein/) and [Prof. Erhan Kutanoglu](https://sites.utexas.edu/erhan/). You can find my publications [here](https://gizemtt.github.io/publications/).
 
