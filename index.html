@@ -99,5 +99,13 @@
         <p>You can view my detailed CV here: <a href="assets\Toplu_Tutay_CV.pdf" target="_blank">Download my CV (PDF)</a></p>
         <p>The most up-to-date publications are in the CV.</p>
     </section>
+
+    <footer>
+        <p>Last updated: <span id="lastUpdated"></span></p>
+        <script>
+            document.getElementById('lastUpdated').textContent = new Date().toLocaleDateString();
+        </script>
+    </footer>
+    
 </body>
 </html>
