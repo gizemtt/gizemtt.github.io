@@ -1,110 +1,264 @@
-<!-- <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome to My GitHub Page</title>
-</head>
-<body>
-    <h1>Hello, world!</h1>
-    <p>Welcome to my personal GitHub Pages site.</p>
-</body>
-</html>
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Redirecting...</title>
-    <meta http-equiv="refresh" content="0; URL='https://www.linkedin.com/in/gizemtoplututay/'" />
-</head>
-<body>
-    <p>If you are not redirected automatically, follow this <a href="https://www.linkedin.com/in/gizemtoplututay/">link to LinkedIn</a>.</p>
-</body>
-</html>
- -->
 
- <!DOCTYPE html>
- <html lang="en">
- <head>
-     <meta charset="UTF-8">
-     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <title>Gizem Toplu Tutay's Personal Website</title>
-     <style>
-         body {
-             font-family: Arial, sans-serif;
-             margin: 0;
-             padding: 20px;
-             line-height: 1.6;
-             max-width: 800px;
-             margin: auto;
-         }
-         header, section {
-             margin-bottom: 20px;
-         }
-         img {
-             max-width: 200px;
-             border-radius: 50%; /* Makes the image circular */
-             display: block;
-             margin-bottom: 20px;
-         }
-         a {
-             color: #0073e6;
-             text-decoration: none;
-         }
-         a:hover {
-             text-decoration: underline;
-         }
-     </style>
- </head>
- <body>
-     <header>
-         <h1>GIZEM TOPLU-TUTAY</h1>
-         <div style="display: flex; align-items: center;">
-            <img src="assets/photo.jpg" alt="Gizem Toplu Tutay's Photo" style="margin-right: 15px;">
+    <title>Gizem Toplu-Tutay | Operations Research, Risk, and Infrastructure Resilience</title>
+    <meta name="description"
+          content="Gizem Toplu-Tutay is a postdoctoral Research Fellow at Georgetown University working on stochastic and robust optimization, infrastructure resilience, climate and disaster risk, and power systems.">
+
+    <style>
+        :root {
+            --accent: #1f5fae;
+            --text: #222;
+            --muted: #5f6670;
+            --border: #d9dee5;
+            --background: #ffffff;
+            --soft: #f6f8fb;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 0;
+            color: var(--text);
+            background: var(--background);
+            line-height: 1.65;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 36px 24px 60px;
+        }
+
+        header {
+            padding-bottom: 28px;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .hero {
+            display: flex;
+            align-items: center;
+            gap: 28px;
+        }
+
+        .hero img {
+            width: 180px;
+            height: 180px;
+            object-fit: cover;
+            border-radius: 50%;
+            flex: 0 0 auto;
+        }
+
+        h1 {
+            margin: 0 0 6px;
+            font-size: 2.35rem;
+            line-height: 1.15;
+            letter-spacing: 0.01em;
+        }
+
+        .subtitle {
+            margin: 0 0 12px;
+            color: var(--muted);
+            font-size: 1.08rem;
+        }
+
+        .links {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px 16px;
+            margin-top: 14px;
+        }
+
+        a {
+            color: var(--accent);
+            text-decoration: none;
+        }
+
+        a:hover,
+        a:focus {
+            text-decoration: underline;
+        }
+
+        section {
+            padding-top: 34px;
+        }
+
+        h2 {
+            margin: 0 0 14px;
+            font-size: 1.45rem;
+            border-bottom: 1px solid var(--border);
+            padding-bottom: 7px;
+        }
+
+        h3 {
+            margin: 20px 0 8px;
+            font-size: 1.05rem;
+        }
+
+        p {
+            margin: 0 0 14px;
+        }
+
+        .research-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 18px;
+        }
+
+        .card {
+            background: var(--soft);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 18px 20px;
+        }
+
+        .card h3 {
+            margin-top: 0;
+        }
+
+        footer {
+            margin-top: 48px;
+            padding-top: 18px;
+            border-top: 1px solid var(--border);
+            color: var(--muted);
+            font-size: 0.85rem;
+            text-align: center;
+        }
+
+        @media (max-width: 680px) {
+            .container {
+                padding: 24px 18px 40px;
+            }
+
+            .hero {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+
+            .hero img {
+                width: 150px;
+                height: 150px;
+            }
+
+            h1 {
+                font-size: 2rem;
+            }
+
+            .research-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+
+<body>
+<div class="container">
+
+    <header>
+        <div class="hero">
+            <img src="assets/photo.jpg" alt="Gizem Toplu-Tutay">
             <div>
-                <p>Email: <a href="mailto:gizem@utexas.edu">gizem@utexas.edu</a></p>
-                <p><a href="https://scholar.google.com/citations?user=1xDnRV4AAAAJ" target="_blank">Google Scholar Profile</a></p>
-                <p><a href="assets\Toplu_Tutay_CV.pdf" target="_blank">Curriculum Vitae</a></p>
-                <p><a href="assets\Toplu_Tutay_CV.pdf" target="_blank">Publications</a></p>
+                <h1>Gizem Toplu-Tutay</h1>
+                <p class="subtitle">
+                    Research Fellow (Postdoctoral), The Earth Commons Institute<br>
+                    Georgetown University
+                </p>
+
+                <div class="links">
+                    <a href="mailto:gizem.toplututay@georgetown.edu">Email</a>
+                    <a href="https://scholar.google.com/citations?user=1xDnRV4AAAAJ"
+                       target="_blank" rel="noopener noreferrer">Publications</a>
+                    <a href="https://orcid.org/0009-0006-8628-9061"
+                       target="_blank" rel="noopener noreferrer">ORCID</a>
+                    <a href="https://www.linkedin.com/in/gizemtoplututay/"
+                       target="_blank" rel="noopener noreferrer">LinkedIn</a>
+                    <a href="assets/Toplu_Tutay_CV.pdf"
+                       target="_blank" rel="noopener noreferrer">CV</a>
+                </div>
             </div>
         </div>
     </header>
 
-    <section id="about">
-        <p>I'm a Ph.D. candidate in the <a href="https://www.me.utexas.edu/about/facts-rankings" target="_blank">Operations Research and Industrial Engineering Program</a> within the Department of Mechanical Engineering at the University of Texas at Austin, where I focus on stochastic integer programming and data-driven decision-making.</p>
+    <main>
 
-        <p>I develop models to enhance the resilience of power and healthcare systems, explicitly considering how service disruptions disproportionately affect socially vulnerable populations. I’m fortunate to be advised by <a href="https://sites.utexas.edu/hasenbein/" target="_blank">Prof. John J. Hasenbein</a> and <a href="https://sites.utexas.edu/erhan/" target="_blank">Prof. Erhan Kutanoglu</a>. You can find my publications <a href="assets/Toplu_Tutay_CV.pdf" target="_blank">here</a>.</p>
+        <section id="about">
+            <h2>About</h2>
 
-        <p>I've received funding from the <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1940308" target="_blank">National Science Foundation (NSF)</a>, the <a href="https://ic2.utexas.edu/" target="_blank">IC<sup>2</sup> Institute</a>, and the <a href="https://ceo.beg.utexas.edu/" target="_blank">Bureau of Economic Geology</a>. Additionally, I was awarded a <a href="https://gradschool.utexas.edu/funding/fellowships/grad-school/continuing" target="_blank">$52K University Graduate Continuing Fellowship</a> in recognition of my accomplishments since entering graduate school. These opportunities have allowed me to: (1) gain valuable experience in applying for and securing awards and grants, (2) work on research topics both assigned to me and self-initiated, and (3) collaborate effectively with team members from diverse fields, including economics, public policy, geosciences, electrical and computer engineering, and, of course, operations research. As a result, I have developed an interdisciplinary approach to research.</p>
+            <p>
+                I am a postdoctoral Research Fellow at
+                <a href="https://earthcommons.georgetown.edu/"
+                   target="_blank" rel="noopener noreferrer">The Earth Commons Institute</a>
+                at Georgetown University, where I work with Prof. Roshanak (Roshi) Nateghi.
+                I earned my Ph.D. in Operations Research and Industrial Engineering
+                from The University of Texas at Austin in 2026, advised by
+                Prof. John J. Hasenbein and Prof. Erhan Kutanoglu.
+            </p>
 
-        <p>I earned my bachelor's degree in Civil Engineering with highest honors (<em>summa cum laude</em>) from <a href="https://bogazici.edu.tr/en-US/Index" target="_blank">Bogazici University</a>. Before beginning my Ph.D., I gained six years of industry experience—three years in the power sector and three years in manufacturing and logistics.</p>
+            <p>
+                My research develops optimization and data-driven decision models for
+                infrastructure systems exposed to extreme events and long-term climate risk.
+                I am particularly interested in how uncertainty, resource constraints, and
+                the unequal consequences of service disruptions should shape resilience
+                investments and emergency-response decisions.
+            </p>
 
-        <p>Outside of work, I enjoy walking, rowing, and experimenting in the kitchen to put my own twist on dishes—though not every experiment is a success! I also love to unwind with a picnic in nature, surrounded by family and friends.</p>
-    </section>
+            <p>
+                My doctoral research addressed power-grid hardening, healthcare-facility
+                protection, patient evacuation, emergency resource allocation, long-run
+                disaster impacts, and electricity system planning. Methodologically, my work
+                draws on stochastic optimization, mixed-integer programming,
+                multi-objective optimization, decomposition algorithms, and statistical
+                modeling.
+            </p>
 
-    <section id="research">
-        <h2>Research Interests</h2>
-        <p>Integer programming, network optimization, multi-stage stochastic optimization, robust optimization, machine learning</p>
-        <p>Energy systems, power systems/electric grids, interdisciplinary research to address complex environmental, social, and policy challenges, critical infrastructure resilience to extreme events, equitable resource allocation and investment planning</p>
-    </section>
+            <p>
+                Before joining Georgetown, I also conducted research at the National
+                Renewable Energy Laboratory on electric-vehicle charging flexibility and
+                electricity-system planning. I hold an M.S. in Operations Research and
+                Industrial Engineering from The University of Texas at Austin and a B.S. in
+                Civil Engineering, with highest honors, from Boğaziçi University.
+            </p>
+        </section>
 
-    <section id="cv">
-        <h2>CV</h2>
-        <p>You can view my CV here: <a href="assets\Toplu_Tutay_CV.pdf" target="_blank">Download my CV (PDF)</a></p>
-        <p>The most up-to-date publications are in the CV.</p>
-    </section>
+        <section id="research">
+            <h2>Research Interests</h2>
 
-    <footer style="text-align: center; margin-top: 40px;">
-        <p style="font-size: 0.8em;">Last updated: November 24, 2025</p>
-    </footer>    
-   
-    
+            <div class="research-grid">
+                <div class="card">
+                    <h3>Methods</h3>
+                    <p>
+                        Stochastic and robust optimization; mixed-integer programming;
+                        multi-objective optimization; decomposition algorithms.
+                    </p>
+                </div>
 
+                <div class="card">
+                    <h3>Applications</h3>
+                    <p>
+                        Infrastructure resilience; climate and disaster risk; power systems;
+                        societal impacts of disasters and service disruptions; interdisciplinary research to address complex environmental, social, and policy challenges.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <footer>
+        Last updated: September 22, 2026
+    </footer>
+
+</div>
 </body>
 </html>
